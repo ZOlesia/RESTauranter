@@ -1,0 +1,43 @@
+﻿@model restauranter.Models.Restaurant
+<h1>Write a new Review</h1>
+<form asp-controller="Home" asp-action="AddReview" method="POST">
+    <br>
+    <label asp-for="user_name"></label>
+    <input asp-for="user_name">
+    <br>
+    <span asp-validation-for="user_name" class="text-danger"></span>
+    <br>
+
+    <label asp-for="rest_name"></label>
+    <input asp-for="rest_name">
+    <br>
+    <span asp-validation-for="rest_name" class="text-danger"></span>
+    <br>
+    
+    <label asp-for="review"></label>
+    <textarea asp-for="review"></textarea>
+    <br>
+    <span asp-validation-for="review" class="text-danger"></span>
+    <br>
+    
+    <label asp-for="visit_date"></label>
+    <input asp-for="visit_date">
+    <br>
+    <span asp-validation-for="visit_date" class="text-danger"></span>
+    <span class="text-danger">@TempData["error"]</span>
+    <br>
+    
+    <label asp-for="stars"></label>
+    <select asp-for="stars">
+        <option value="5">5</option>
+        <option value="4">4</option>
+        <option value="3">3</option>
+        <option value="2">2</option>
+        <option value="1">1</option>
+    </select>
+    <br>
+    <span asp-validation-for="stars" class="text-danger"></span>
+    <br>
+    <button type="submit">Add Review</button>
+    <br>
+</form>

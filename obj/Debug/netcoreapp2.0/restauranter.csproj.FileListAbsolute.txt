@@ -1,0 +1,10 @@
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\bin\Debug\netcoreapp2.0\restauranter.deps.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\bin\Debug\netcoreapp2.0\restauranter.runtimeconfig.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\bin\Debug\netcoreapp2.0\restauranter.runtimeconfig.dev.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\bin\Debug\netcoreapp2.0\restauranter.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\bin\Debug\netcoreapp2.0\restauranter.pdb
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\obj\Debug\netcoreapp2.0\restauranter.csproj.CoreCompileInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\obj\Debug\netcoreapp2.0\restauranter.AssemblyInfoInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\obj\Debug\netcoreapp2.0\restauranter.AssemblyInfo.cs
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\obj\Debug\netcoreapp2.0\restauranter.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\ENTITY\restauranter\obj\Debug\netcoreapp2.0\restauranter.pdb
